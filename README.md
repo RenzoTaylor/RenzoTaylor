@@ -1,6 +1,6 @@
 <h1>Hey Everyone, I'm Lorenzo or Renzo! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](LABURL)
   - [Vulnerability Management Home Lab](LABURL)
