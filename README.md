@@ -2,9 +2,12 @@
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](LABURL)
-  - [Vulnerability Management Home Lab](LABURL)
-  - [Automate Windows Backup With Powershell & Task Scheduler](LABURL)
+  - <b>Vulnerability Management / Patch Management</b>
+    - [Vulnerability Management Home Lab](LABURL)
+  - <b>PowerShell</b>
+    - [Active Directory Home Lab](LABURL)
+    - [Automate Windows Backup With Powershell & Task Scheduler](URL)
+    - [Automate Dindows Backup With Powershell & Task Scheduler](URL)
 
 
 <h2>📺 Popular YouTube Videos</h2>
