@@ -9,7 +9,7 @@
     - [Automate Windows Backup With Powershell & Task Scheduler](URL)
     - [Bitlocker Drive Encryption Script](URL)
   
-  <h2>👨🏾‍💻 General Topics:</h2>
+  <h2>📝 General Topics:</h2>
   
 - <b>Key Notes</b>
     - [Governance Risk and Compliance](https://fluff-bugle-ddb.notion.site/Governance-Risk-Compliance-GRC-842c5b23e31044208e4f492e6890c397)
