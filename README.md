@@ -12,7 +12,7 @@
   <h2>👨🏾‍💻 General Topics:</h2>
 
   - <b>Vulnerability Management / Patch Management</b>
-    - [Governance Risk and Compliance Key Notes](https://github.com/RenzoTaylor/VulnerabilityManagementLab/tree/main](https://fluff-bugle-ddb.notion.site/Governance-Risk-Compliance-GRC-842c5b23e31044208e4f492e6890c397)
+    - [Governance Risk and Compliance Key Notes](https://fluff-bugle-ddb.notion.site/Governance-Risk-Compliance-GRC-842c5b23e31044208e4f492e6890c397)
   - <b>PowerShell</b>
     - [Active Directory Home Lab](LABURL)
     - [Automate Windows Backup With Powershell & Task Scheduler](https://fluff-bugle-ddb.notion.site/Governance-Risk-Compliance-GRC-842c5b23e31044208e4f492e6890c397)
