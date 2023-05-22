@@ -11,6 +11,7 @@
   
 <h2>👨🏾‍💻 General Topics:</h2>
     - [Governance Risk and Compliance Key Notes] (https://fluff-bugle-ddb.notion.site/Governance-Risk-Compliance-GRC-842c5b23e31044208e4f492e6890c397)
+  - <b>Vulnerability Management / Patch Management</b>
     - [Vulnerability Management Home Lab](https://github.com/RenzoTaylor/VulnerabilityManagementLab/tree/main)
 
 <h2>📺 Popular YouTube Videos</h2>
