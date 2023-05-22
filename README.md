@@ -13,8 +13,8 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How I got into Cybersecurity](URL)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [My WGU Journey](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [How to Create a KeyLogger (C#)](URL)
+- [My WGU Journey](URL)
 
 <h2>🤳🏾 Connect with me:</h2>
 
