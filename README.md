@@ -8,7 +8,9 @@
     - [Active Directory Home Lab](LABURL)
     - [Automate Windows Backup With Powershell & Task Scheduler](URL)
     - [Bitlocker Drive Encryption Script](URL)
-
+  
+<h2>👨🏾‍💻 General Topics:</h2>
+    - [Governance Risk and Compliance Key Notes](https://fluff-bugle-ddb.notion.site/Governance-Risk-Compliance-GRC-842c5b23e31044208e4f492e6890c397)
 
 <h2>📺 Popular YouTube Videos</h2>
 
