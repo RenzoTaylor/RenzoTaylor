@@ -10,7 +10,7 @@
     - [Bitlocker Drive Encryption Script](URL)
   
   <h2>👨🏾‍💻 General Topics:</h2>
-
+- <b>Vulnerability Management / Patch Management</b>
     - [Governance Risk and Compliance Key Notes](https://fluff-bugle-ddb.notion.site/Governance-Risk-Compliance-GRC-842c5b23e31044208e4f492e6890c397)
   - <b>PowerShell</b>
     - [Active Directory Home Lab](LABURL)
