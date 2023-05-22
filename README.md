@@ -7,7 +7,7 @@
   - <b>PowerShell</b>
     - [Active Directory Home Lab](LABURL)
     - [Automate Windows Backup With Powershell & Task Scheduler](URL)
-    - [Automate Dindows Backup With Powershell & Task Scheduler](URL)
+    - [Bitlocker Drive Encryption Script](URL)
 
 
 <h2>📺 Popular YouTube Videos</h2>
