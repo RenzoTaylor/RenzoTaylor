@@ -9,7 +9,7 @@
     - [Automate Windows Backup With Powershell & Task Scheduler](URL)
     - [Bitlocker Drive Encryption Script](URL)
   
-  <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
+  <h2>👨🏾‍💻 General Topics:</h2>
 
   - <b>Vulnerability Management / Patch Management</b>
     - [Vulnerability Management Home Lab](https://github.com/RenzoTaylor/VulnerabilityManagementLab/tree/main)
