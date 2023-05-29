@@ -2,10 +2,10 @@
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
-  - <b>Vulnerability Management / Patch Management</b>
+  - <b>Security Lab</b>
+    - [Active Directory Home Lab](LABURL)
     - [Vulnerability Management Home Lab](https://github.com/RenzoTaylor/VulnerabilityManagementLab/tree/main)
   - <b>PowerShell</b>
-    - [Active Directory Home Lab](LABURL)
     - [Automate Windows Backup With Powershell & Task Scheduler](URL)
     - [Bitlocker Drive Encryption Script](URL)
   
