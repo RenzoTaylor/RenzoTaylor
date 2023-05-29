@@ -3,7 +3,7 @@
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
   - <b>Security Lab</b>
-    - [Active Directory Home Lab](https://github.com/RenzoTaylor/ActiveDirectoryHomeLab))
+    - [Active Directory Home Lab](https://github.com/RenzoTaylor/ActiveDirectoryHomeLab)
     - [Vulnerability Management Home Lab](https://github.com/RenzoTaylor/VulnerabilityManagementLab/tree/main)
   - <b>PowerShell</b>
     - [Automate Windows Backup With Powershell & Task Scheduler](URL)
