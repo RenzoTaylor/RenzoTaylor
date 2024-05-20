@@ -14,12 +14,6 @@
 - <b>Key Notes</b>
     - [Governance Risk and Compliance](https://fluff-bugle-ddb.notion.site/Governance-Risk-Compliance-GRC-842c5b23e31044208e4f492e6890c397)
 
-
-<h2>📺 Popular YouTube Videos (Content Coming Soon)</h2>
-
-- [How I got into Cybersecurity](URL)
-- [My WGU Journey](URL)
-
 <h2>🤳🏾 Connect with me:</h2>
 <p align="left"> <a href="https://github.com/RenzoTaylor/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a  /></a> <a href="https://www.linkedin.com/in/lorenzo-taylor-433a10187/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a  /></a> <a 
 
