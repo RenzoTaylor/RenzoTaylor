@@ -1,9 +1,9 @@
 <h1>Hey Everyone, I'm Lorenzo or Renzo!</h1>
 
-<h2>👨🏾‍💻 Cybersecurity Projects:</h2>
+<h2>👨🏾‍💻 My Projects:</h2>
 
 <ul>
-  <li><b>Azure Projects</b>
+  <li><b>Azure Things</b>
     <ul>
       <li><a href="https://github.com/RenzoTaylor/azure-resume">Cloud Resume</a></li>
     </ul>
@@ -14,17 +14,7 @@
       <li><a href="URL">Bitlocker Drive Encryption Script</a></li>
     </ul>
   </li>
-  <li><b>Security Lab</b>
-    <ul>
-      <li><a href="https://github.com/RenzoTaylor/ActiveDirectoryHomeLab">Active Directory Home Lab (In Progress)</a></li>
-      <li><a href="https://github.com/RenzoTaylor/VulnerabilityManagementLab/tree/main">Vulnerability Management Home Lab</a></li>
-    </ul>
-  </li>
-  <li><b>PowerShell</b>
-    <ul>
-      <li><a href="URL">Automate Windows Backup With Powershell & Task Scheduler</a></li>
-      <li><a href="URL">Bitlocker Drive Encryption Script</a></li>
-    </ul>
+
   </li>
 </ul>
 
